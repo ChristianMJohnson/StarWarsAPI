@@ -1,0 +1,2 @@
+# StarWarsAPI
+SWAPI Afternoon project
